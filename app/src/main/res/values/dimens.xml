@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+
+    <dimen name="icon_item_list_big">56dp</dimen>
+    <dimen name="icon_item_list_medium">48dp</dimen>
+    <dimen name="icon_item_list_small">36dp</dimen>
+
+</resources>

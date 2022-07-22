@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">the-weather</string>
+
+    <string name="temperature_example">19º</string>
+    <string name="status_example">CLOUDY</string>
+    <string name="city_example">LISBON, PT</string>
+    <string name="moisture_example">75%</string>
+    <string name="day_example">30</string>
+    <string name="day_name_example">MON</string>
+    <string name="humidity_example">78%</string>
+    <string name="humidity">Humidity</string>
+    <string name="visibility">Visibility</string>
+    <string name="visibility_example">10km</string>
+    <string name="wind_example">7.72</string>
+    <string name="wind">Wind</string>
+    <string name="km">%skm</string>
+    <string name="grade_celsius">%sºC</string>
+    <string name="location">%s, %s</string>
+</resources>
